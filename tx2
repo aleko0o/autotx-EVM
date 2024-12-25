@@ -1,0 +1,24 @@
+hyperEVMwallet
+Kalian butuh ini ga Abangku? buat tuyulan kalau butuh ntar w drop publik
+👐
+
+- Generate Multiple EVM Wallet With Phrase/Mnemonic 12 Word & Privatekey
+- Generate Multiple EVM Wallet With Privatekey
+- Convert 12 Word Phrase/Mnemonic To Privatekey & Address For EVM
+- Convert Privatekey To Address For EVM
+
+How To Run HyperEVM Wallet
+git clone https://github.com/AirdropFamilyIDN-V2-0/hyperEVM.git
+
+cd hyperEVM
+
+pip install eth-account
+
+pip install web3
+
+pip install colorama
+
+python evm.py
+
+*Note
+- Gunakan Python 3.10
